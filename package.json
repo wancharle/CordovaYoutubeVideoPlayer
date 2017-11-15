@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-youtubevideoplayer",
+  "version": "0.7.2",
+  "description": "youtube video plauer",
+  "cordova": {
+    "id": "cordova-plugin-youtubevideoplayer",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wancharle/CordovaYoutubeVideoPlayer.git"
+  },
+  "keywords": [
+    "youtube",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    },
+    {
+      "name": "android-sdk",
+      "version": ">=16"
+    }
+  ],
+  "author": "Wancharle Quirino",
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/wancharle/CordovaYoutubeVideoPlayer.git"
+}
